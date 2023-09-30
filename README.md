@@ -7,7 +7,7 @@ I'm a skilled professional in the field of data science and industrial engineeri
 - 🔭 I am currently an electrical maintenance coordinator at CELIMA.
 - 🌱 I’m currently learning "Data Science" in Platzi
 
--🔭 Skills:
+- 🔭 Skills:
 
   Python, TensorFlow, NumPy, Pandas
   machine learning, deep learning
