@@ -9,8 +9,8 @@ I'm a skilled professional in the field of data science and industrial engineeri
 
 - 🔭 Skills:
 
-  Python, TensorFlow, NumPy, Pandas
-  machine learning, deep learning
+  Python, TensorFlow, NumPy, Pandas,
+  machine learning, deep learning,
   Leadership, teamwork, problem-solving
 
 
