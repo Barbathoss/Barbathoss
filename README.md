@@ -2,7 +2,7 @@
 
 **Industrial Maintenance Specialist | Data Science Enthusiast**
 
-I am an experienced Maintenance Coordinator with over a decade of experience in the industrial sector. Currently, I am leveraging my background in electrical maintenance and engineering to build data-driven solutions for reliability and automation.
+I am an experienced Maintenance Coordinator with over a decade of experience in the industrial sector. Currently, I am leveraging my background in electrical maintenance to build data-driven solutions for reliability and automation.
 
 - 🔭 **I’m currently working as:** Electrical Maintenance Coordinator at CELIMA.
 - 🌱 **I’m currently learning:** Data Science at Platzi & Advanced English.
